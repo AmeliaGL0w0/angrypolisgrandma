@@ -1,7 +1,7 @@
 {
     "name": "angry_polish_grandma",
     "version_number": "6.9",
-    "website_url": "https://github.com/TheDoffman/AngryBritishBug",
+    "website_url": "https://github.com/AmeliaGL0w0/angrypolisgrandma",
     "description": "Replaces Old Phone audio with a Polish grandma that is mad about her forest being cut down by "Stefan" and demanding money for it.",
     "dependencies": [
         "BepInEx-BepInExPack-5.4.2100",
